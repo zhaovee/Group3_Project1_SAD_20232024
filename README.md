@@ -1,4 +1,8 @@
 #项目
+（group members）
+1.zhaowei A23MJ4018
+2.Liu Wanpeng A23MJ4016
+3.Cheng Siyuan A23MJ4022
 第1阶段指南
 任务交付物（提案中的项目）
 进行问题背景研究
